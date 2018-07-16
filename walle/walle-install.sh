@@ -1,4 +1,4 @@
-# /bin/bash
+#! /bin/bash
 # 一键部署安装 walle 系统
 # author leesin
 # date 2018-07-13

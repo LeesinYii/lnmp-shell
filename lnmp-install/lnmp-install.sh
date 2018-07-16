@@ -1,6 +1,10 @@
 #! /bin/bash
 # lnmp 一键安装脚本
+# author leesin
+# date 2018-07-16
 
+# php  http://cn2.php.net/get/php-7.2.7.tar.gz/from/this/mirror
+# mysql  
 php_prefix="cn2.php.net/get/"
 php_suffix=".tar.gz/from/this/mirror"
 
@@ -14,10 +18,7 @@ mysql_suffix=""
 php_version=(
 	"php-5.6.35"
 	"php-7.0.12"
-	"php-7.1.13"
 	"php-7.1.15"
-	"php-7.2.1"
-	"php-7.2.5"
 	"php-7.2.7"
 )
 
